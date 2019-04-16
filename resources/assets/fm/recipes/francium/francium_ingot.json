@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " S ",
+        "IFI",
+        " I "
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "fm:steel_hammer"
+        },
+        
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        
+        "F":
+        {
+            "item": "minecraft:flint_and_steel"
+        }
+        
+    },
+    
+    "result":
+    {
+        "item": "fm:francium_ingot",
+        "count": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "T T",
+        "T T"
+    ],
+    
+    "key":
+    {
+        "T":
+        {
+            "item": "fm:tellurium_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:tellurium_boots",
+        "count": 1
+    }
+}

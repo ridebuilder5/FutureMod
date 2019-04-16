@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AA",
+        "AA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "fm:atomic_dust"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:atomic_food",
+        "count": 4
+    }
+}

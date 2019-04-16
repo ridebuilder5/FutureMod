@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AA ",
+        "AS ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "fm:atomic_dust"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:atomic_axe",
+        "count": 1
+    }
+}

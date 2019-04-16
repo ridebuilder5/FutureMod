@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "TTT",
+        "T T",
+        "T T"
+    ],
+    
+    "key":
+    {
+        "T":
+        {
+            "item": "fm:titanium_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:titanium_leggings",
+        "count": 1
+    }
+}

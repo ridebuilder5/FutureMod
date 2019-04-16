@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "TTT",
+        "TTT",
+        "TTT"
+    ],
+    
+    "key":
+    {
+        "T":
+        {
+            "item": "fm:tellurium_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:tellurium_block",
+        "count": 1
+    }
+}

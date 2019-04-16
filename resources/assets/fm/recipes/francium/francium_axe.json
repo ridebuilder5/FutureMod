@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "FF ",
+        "FS ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "fm:francium_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:francium_axe",
+        "count": 1
+    }
+}

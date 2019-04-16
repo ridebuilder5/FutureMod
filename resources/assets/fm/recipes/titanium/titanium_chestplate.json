@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "T T",
+        "TTT",
+        "TTT"
+    ],
+    
+    "key":
+    {
+        "T":
+        {
+            "item": "fm:titanium_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:titanium_chestplate",
+        "count": 1
+    }
+}

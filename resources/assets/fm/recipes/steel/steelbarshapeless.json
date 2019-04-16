@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "fm:steel_block"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "fm:steel_bar",
+        "count": 9
+    }
+}

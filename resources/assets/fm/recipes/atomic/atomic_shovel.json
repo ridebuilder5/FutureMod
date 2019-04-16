@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "A",
+        "S",
+        "S"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "fm:atomic_dust"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:atomic_shovel",
+        "count": 1
+    }
+}

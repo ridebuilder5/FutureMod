@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AAA",
+        "A A",
+        "A A"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "fm:atomic_dust"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:atomic_leggings",
+        "count": 1
+    }
+}

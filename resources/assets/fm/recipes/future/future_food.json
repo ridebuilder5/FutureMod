@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "FF",
+        "FF"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "fm:future_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:future_food",
+        "count": 4
+    }
+}
