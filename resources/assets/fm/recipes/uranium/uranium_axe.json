@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "UU ",
+        "US ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "U":
+        {
+            "item": "fm:uranium_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:uranium_axe",
+        "count": 1
+    }
+}
