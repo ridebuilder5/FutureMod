@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "fm:atomic_ore" }
+    }
+}
